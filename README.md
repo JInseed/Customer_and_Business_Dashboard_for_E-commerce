@@ -27,7 +27,7 @@
 > **MySQL, Tableau, Python**
 <br>
 
-### 역할
+### 역할(팀장)
 > **EDA,  Data Preprocessing, 코드 통합, 시각화, 상품 추천 대시보드 제작(평점, 리뷰, 재구매,..), 환불 분석 대시보드 제작**
 <br>
 
